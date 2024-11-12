@@ -16,7 +16,7 @@ Microsoft Azure is a cloud computing platform offering various services to help 
 <h3>Step 1: I'm a heading!</h3>
 
 
-Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
+Create an Azure account [here](https://azure.microsoft.com/en-us/free "target='_blank'").
 - li
 
 <p>Image code format here</p>
